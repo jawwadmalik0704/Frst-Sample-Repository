@@ -9,3 +9,12 @@ This could be the third heading in repository.
 *This text is italics*\
 ***This text is both bold and italic***\
 This is quote.
+* smith
++ keth
+- george
+1. First list item
+  - First nested list item
+    - second nested list item
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are
